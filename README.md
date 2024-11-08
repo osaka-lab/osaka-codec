@@ -19,7 +19,7 @@ go install github.com/osaka-lab/osaka-codec@latest
 You can download the [latest release](https://github.com/osaka-lab/osaka-codec/releases/latest) and move the binary to your `~/.local/bin` directory.
 
 ## Usage
-Coming soon:tm:
+Coming soon™
 
 ## Inspiration
 [uwu-codec](https://github.com/THEGOLDENPRO/uwu-codec)
