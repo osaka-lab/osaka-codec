@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐧 osaka-codec
+# <img src="https://cdn.discordapp.com/emojis/1268324750879621243.webp" width="25"> osaka-codec
 <sub>The codec that will replace everything 🗣️‼️</sub>
 
 <img src="https://cdn.ananas.moe/osaka-codec.png">
