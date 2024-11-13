@@ -66,7 +66,7 @@ func Decode(encoded string) ([]byte, error) {
 	_, reverseMapping := getMap()
 
 	for _, str := range divided {
-		if str == "" {
+		if str == "" || str == "\n" {
 			continue
 		}
 
